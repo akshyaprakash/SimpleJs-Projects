@@ -1,0 +1,8 @@
+HTTP Status code - 
+200 -> Means everything is successful.
+201 -> means successful but it also means something was created on the server.
+300 (range) => redirect.
+400 (range) => user error like lets say you forgot an email in your form and email is required
+it would give you a 400 back.
+500(range) => server error so if something happens on the server side then you get the 500 
+range.
