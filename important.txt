@@ -6,3 +6,9 @@ HTTP Status code -
 it would give you a 400 back.
 500(range) => server error so if something happens on the server side then you get the 500 
 range.
+
+forEach()=>
+map() => 
+sort=> 
+filter=> 
+reduce=>
